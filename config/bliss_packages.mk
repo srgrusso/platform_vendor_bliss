@@ -68,8 +68,7 @@ PRODUCT_PACKAGES += \
     Terminal \
     Launcher3 \
     WallpaperPicker \
-    BlissUpdater \
-    Lawnchair
+    BlissUpdater
 
 # Additional apps
 PRODUCT_PACKAGES += \
